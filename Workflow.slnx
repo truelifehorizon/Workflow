@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Common/Common.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Form1/Form1.csproj" />
+</Solution>
